@@ -16,4 +16,4 @@
 
 ### ℹ️ **Sobre o repositório:**
 - ⚠️ Repositório criado exclusivamente para armazenar o conteúdo aprendido durante o curso
-
+- ⚠️ Contém projetos simples em Python, aoenas para aplicar as funcionalidades do Github
