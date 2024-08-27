@@ -4,7 +4,7 @@
     <img 
        width="150" height="150" src="https://img.icons8.com/fluency/240/github.png" alt="github"
     />
-    <h1>Formação: JavaScript Developer</h1>
+    <h1>Formação: Github Certification</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
